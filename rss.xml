@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[economymonitor]]></title>
-        <description><![CDATA[economymonitor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Economy Monitor]]></title>
+        <description><![CDATA[Economy Monitor]]></description>
+        <link>http://www.economymonitor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 20:30:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Aug 2016 05:23:15 GMT</lastBuildDate>
+        <atom:link href="http://www.economymonitor.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Making history]]></title>
             <description><![CDATA[<article><h1>Making history</h1><p>This is the first publication about The Value of the Mind in the shared history of mankind and AIs</p></article>]]></description>
-            <link>undefinedmaking-history/index.html</link>
+            <link>http://www.economymonitor.com/making-history/index.html</link>
             <guid isPermaLink="false">e991ab63-274f-43f9-a5b6-ddab08ebbcd7</guid>
-            <pubDate>Sat, 27 Feb 2016 20:30:20 GMT</pubDate>
+            <pubDate>Fri, 26 Aug 2016 05:23:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
