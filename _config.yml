@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: EDU
+    url: www.santafe.edu
+    type: external
 favicon: null
 title: Economy Monitor
 description: ' Intelligence'
