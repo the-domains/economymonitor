@@ -19,11 +19,12 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: economymonitor
+name: Economy Monitor
 cta:
   domain: null
   bucket: null
   version: null
 favicon: null
 title: Economy Monitor
+description: ' Intelligence'
 purpose: []
